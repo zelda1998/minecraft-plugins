@@ -9,7 +9,7 @@ Abaixo segue uma lista das funcionalidades dos plugins.</p>
 * Luck Perms
 	* Usado para trabalhar com permissões de grupos/jogadores, previne que usuários comuns(não administradores) utilizem comandos que possam causar dano ao servidor ou a propriedades de outros jogadores. A configuração das permissões é  persistida no Postgre SQL.
 	
-	<img align="center" src="https://raw.githubusercontent.com/admoura1998/imagens-readme-minecraft/master/postgresql.png"></img>
+	  <img src="https://raw.githubusercontent.com/admoura1998/imagens-readme-minecraft/master/postgresql.png"></img>
 
 * EssentialsX
 	* Dispõe de diversos comandos julgados como essencias pela comunidade de Minecraft.
