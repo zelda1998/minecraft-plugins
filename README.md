@@ -3,7 +3,7 @@
 Abaixo segue uma lista das funcionalidades dos plugins.</p>
 
 <!--ts-->
-* [Grief Prevention]
+* Grief Prevention
 
 
 
