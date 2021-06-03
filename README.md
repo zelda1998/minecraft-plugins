@@ -7,7 +7,7 @@ Abaixo segue uma lista das funcionalidades dos plugins.</p>
 	* Utilizado para previnir que usuários destruam propriedades particulares, é um dos principais plugins para abertura do servidor.
 
 * Luck Perms
-	* Usado para trabalhar com permissões de grupos/jogadores, previne que usuários comuns(não administradores) utilizem comandos que possam causar dano ao servidor ou a propriedades de outros jogadores. A configuração das permissões é  persistida no Postgre SQL.
+	* Usado para trabalhar com permissões de grupos/jogadores, previne que usuários comuns(não administradores) utilizem comandos que possam causar dano ao servidor ou a propriedades de outros jogadores. A configuração das permissões é persistido no Postgre SQL.
 	
 	  <img src="https://raw.githubusercontent.com/admoura1998/imagens-readme-minecraft/master/postgresql.png"></img>
 
